@@ -24,11 +24,11 @@ game logic implementation, and application resource management.
 ## Screenshots
 
 ![Main Menu](Resources/screenshots/mainmenu-screenshot.png)
-![Main Menu](Resources/screenshots/settings-screenshot.png)
-![Main Menu](Resources/screenshots/difficulty-screenshot.png)
+![Settings](Resources/screenshots/settings-screenshot.png)
+![Difficulty](Resources/screenshots/difficulty-screenshot.png)
 ![Gameplay1](Resources/screenshots/gameplay1-screenshot.png)
-![Gameplay2](Resources/screenshots/gameplay1-screenshot.png)
-![Gameplay3](Resources/screenshots/gameplay1-screenshot.png)
+![Gameplay2](Resources/screenshots/gameplay2-screenshot.png)
+![Gameplay3]("Card Royale"/Resources/screenshots/gameplay3-screenshot.png)
 
 
 ### 🚧 Planned Features
