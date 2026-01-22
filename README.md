@@ -58,7 +58,7 @@ Available versions:
 - **Portable (.zip)** – no-install version intended for testing purposes
 
 
--------------------------------------------------HR - Hrvatski jezik-------------------------------------------------
+-----------------------------------HR - Hrvatski jezik--------------------------
 
 
 ## 🃏 Card Royale – Završni rad
