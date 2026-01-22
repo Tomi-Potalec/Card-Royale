@@ -21,15 +21,16 @@ game logic implementation, and application resource management.
 - Settings persistence using JSON
 - Installer (.exe) and portable (.zip) versions
 
-## Screenshots
+<h2 align="center">Screenshots</h2>
 
-![Main Menu](Resources/screenshots/mainmenu-screenshot.png)
-![Settings](Resources/screenshots/settings-screenshot.png)
-![Difficulty](Resources/screenshots/difficulty-screenshot.png)
-![Gameplay1](Resources/screenshots/gameplay1-screenshot.png)
-![Gameplay2](Resources/screenshots/gameplay2-screenshot.png)
-![Gameplay3]("Card Royale"/Resources/screenshots/gameplay3-screenshot.png)
-
+<p align="center">
+  <img src="Resources/screenshots/mainmenu-screenshot.png" width="400" alt="Main Menu"/>
+  <img src="Resources/screenshots/settings-screenshot.png" width="400" alt="Settings"/>
+  <img src="Resources/screenshots/difficulty-screenshot.png" width="400" alt="Difficulty"/>
+  <img src="Resources/screenshots/gameplay1-screenshot.png" width="400" alt="Gameplay 1"/>
+  <img src="Resources/screenshots/gameplay2-screenshot.png" width="400" alt="Gameplay 2"/>
+  <img src="Resources/screenshots/gameplay3-screenshot.png" width="400" alt="Gameplay 3"/>
+</p>
 
 ### 🚧 Planned Features
 - Klondike
