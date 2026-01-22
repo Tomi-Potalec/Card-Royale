@@ -1,4 +1,5 @@
-----------------------------------------------EN - English-----------------------------------------------------------
+--------------------------------EN - English-----------------------------------
+
 
 
 ## 🃏 Card Royale – Final Project
@@ -19,6 +20,15 @@ game logic implementation, and application resource management.
 - Settings (Theme, Music, Sound Effects, Card Back)
 - Settings persistence using JSON
 - Installer (.exe) and portable (.zip) versions
+
+## Screenshots
+
+![Main Menu](Card Royale/Resources/screenshots/mainmenu-screenshot.png)
+![Settings](Card Royale/Resources/screenshots/settings-screenshot.png)
+![Difficulty](Card Royale/Resources/screenshots/difficulty-screenshot.png)
+![Gameplay1](Card Royale/Resources/screenshots/gameplay1-screenshot.png)
+![Gameplay2](Card Royale/Resources/screenshots/gameplay2-screenshot.png)
+![Gameplay3](Card Royale/Resources/screenshots/gameplay3-screenshot.png)
 
 ### 🚧 Planned Features
 - Klondike
@@ -57,7 +67,7 @@ Available versions:
 - **Portable (.zip)** – no-install version intended for testing purposes
 
 
--------------------------------------------------HR - Hrvatski jezik-------------------------------------------------
+-----------------------------------HR - Hrvatski jezik--------------------------
 
 
 ## 🃏 Card Royale – Završni rad
@@ -78,6 +88,18 @@ logiku igre i upravljanje aplikacijskim resursima.
 - Postavke (Theme, Music, SFX, Card Back)
 - Spremanje postavki u JSON
 - Installer (.exe) i portable (.zip) verzija
+
+
+## Slike zaslona
+
+![Main Menu](Resources/screenshots/mainmenu-screenshot.png)
+![Main Menu](Resources/screenshots/settings-screenshot.png)
+![Main Menu](Resources/screenshots/difficulty-screenshot.png)
+![Gameplay1](Resources/screenshots/gameplay1-screenshot.png)
+![Gameplay2](Resources/screenshots/gameplay1-screenshot.png)
+![Gameplay3](Resources/screenshots/gameplay1-screenshot.png)
+
+
 
 ### 🚧 Planirano
 - Klondike
