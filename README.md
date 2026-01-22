@@ -21,6 +21,16 @@ game logic implementation, and application resource management.
 - Settings persistence using JSON
 - Installer (.exe) and portable (.zip) versions
 
+## Screenshots
+
+![Main Menu](Resources/screenshots/mainmenu-screenshot.png)
+![Main Menu](Resources/screenshots/settings-screenshot.png)
+![Main Menu](Resources/screenshots/difficulty-screenshot.png)
+![Gameplay1](Resources/screenshots/gameplay1-screenshot.png)
+![Gameplay2](Resources/screenshots/gameplay1-screenshot.png)
+![Gameplay3](Resources/screenshots/gameplay1-screenshot.png)
+
+
 ### 🚧 Planned Features
 - Klondike
 - Spider Solitaire
@@ -79,6 +89,18 @@ logiku igre i upravljanje aplikacijskim resursima.
 - Postavke (Theme, Music, SFX, Card Back)
 - Spremanje postavki u JSON
 - Installer (.exe) i portable (.zip) verzija
+
+
+## Slike zaslona
+
+![Main Menu](Resources/screenshots/mainmenu-screenshot.png)
+![Main Menu](Resources/screenshots/settings-screenshot.png)
+![Main Menu](Resources/screenshots/difficulty-screenshot.png)
+![Gameplay1](Resources/screenshots/gameplay1-screenshot.png)
+![Gameplay2](Resources/screenshots/gameplay1-screenshot.png)
+![Gameplay3](Resources/screenshots/gameplay1-screenshot.png)
+
+
 
 ### 🚧 Planirano
 - Klondike
