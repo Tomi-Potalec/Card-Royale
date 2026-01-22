@@ -1,0 +1,42 @@
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Card Royale.exe.config
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Card Royale.exe
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Card Royale.pdb
+D:\VisualProjects\Card Royale\Card Royale\obj\Debug\Card Royale.csproj.AssemblyReference.cache
+D:\VisualProjects\Card Royale\Card Royale\obj\Debug\Card_Royale.MainMenu.resources
+D:\VisualProjects\Card Royale\Card Royale\obj\Debug\Card_Royale.Properties.Resources.resources
+D:\VisualProjects\Card Royale\Card Royale\obj\Debug\Card Royale.csproj.GenerateResource.cache
+D:\VisualProjects\Card Royale\Card Royale\obj\Debug\Card Royale.csproj.CoreCompileInputs.cache
+D:\VisualProjects\Card Royale\Card Royale\obj\Debug\Card Royale.exe
+D:\VisualProjects\Card Royale\Card Royale\obj\Debug\Card Royale.pdb
+D:\VisualProjects\Card Royale\Card Royale\obj\Debug\Card_Royale.SolitairePanel.resources
+D:\VisualProjects\Card Royale - 4.7.2\Card Royale\bin\Debug\Card Royale.exe.config
+D:\VisualProjects\Card Royale - 4.7.2\Card Royale\bin\Debug\Card Royale.exe
+D:\VisualProjects\Card Royale - 4.7.2\Card Royale\bin\Debug\Card Royale.pdb
+D:\VisualProjects\Card Royale - 4.7.2\Card Royale\obj\Debug\Card Royale.csproj.AssemblyReference.cache
+D:\VisualProjects\Card Royale - 4.7.2\Card Royale\obj\Debug\Card Royale.exe.config
+D:\VisualProjects\Card Royale - 4.7.2\Card Royale\obj\Debug\Card_Royale.MainMenu.resources
+D:\VisualProjects\Card Royale - 4.7.2\Card Royale\obj\Debug\Card_Royale.Properties.Resources.resources
+D:\VisualProjects\Card Royale - 4.7.2\Card Royale\obj\Debug\Card_Royale.SolitairePanel.resources
+D:\VisualProjects\Card Royale - 4.7.2\Card Royale\obj\Debug\Card Royale.csproj.GenerateResource.cache
+D:\VisualProjects\Card Royale - 4.7.2\Card Royale\obj\Debug\Card Royale.csproj.CoreCompileInputs.cache
+D:\VisualProjects\Card Royale - 4.7.2\Card Royale\obj\Debug\Card Royale.exe
+D:\VisualProjects\Card Royale - 4.7.2\Card Royale\obj\Debug\Card Royale.pdb
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Newtonsoft.Json.dll
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Newtonsoft.Json.xml
+D:\VisualProjects\Card Royale\Card Royale\obj\Debug\Card Roy.B9A194E9.Up2Date
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Resources\Music\Bitter Sweet Symphony.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Resources\Music\Cantina Band.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Resources\Music\Creep.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Resources\Music\Everlong.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Resources\Music\Jazz Time.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Resources\Music\New Computers.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Resources\Music\On The Mission.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Resources\Music\Somebody That I Used To Know.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Resources\Music\Whistle.mp3
+D:\VisualProjects\Card Royale\Card Royale\obj\Debug\Interop.MediaPlayer.dll
+D:\VisualProjects\Card Royale\Card Royale\obj\Debug\Interop.WMPLib.dll
+D:\VisualProjects\Card Royale\Card Royale\obj\Debug\Card Royale.csproj.ResolveComReference.cache
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Resources\Sounds\card_flip.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Resources\Sounds\reset.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Debug\Resources\Sounds\victory.mp3
+D:\VisualProjects\Card Royale\Card Royale\obj\Debug\Card Royale.exe.config

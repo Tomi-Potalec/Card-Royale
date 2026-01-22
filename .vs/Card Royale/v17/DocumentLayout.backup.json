@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualProjects\\Card Royale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67AECBAD-50C7-4211-9E53-BE67C4301B9D}|Card Royale\\Card Royale.csproj|d:\\visualprojects\\card royale\\card royale\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AECBAD-50C7-4211-9E53-BE67C4301B9D}|Card Royale\\Card Royale.csproj|solutionrelative:card royale\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AECBAD-50C7-4211-9E53-BE67C4301B9D}|Card Royale\\Card Royale.csproj|D:\\VisualProjects\\Card Royale\\card royale\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67AECBAD-50C7-4211-9E53-BE67C4301B9D}|Card Royale\\Card Royale.csproj|solutionrelative:card royale\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AECBAD-50C7-4211-9E53-BE67C4301B9D}|Card Royale\\Card Royale.csproj|D:\\VisualProjects\\Card Royale\\card royale\\solitairepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AECBAD-50C7-4211-9E53-BE67C4301B9D}|Card Royale\\Card Royale.csproj|solutionrelative:card royale\\solitairepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AECBAD-50C7-4211-9E53-BE67C4301B9D}|Card Royale\\Card Royale.csproj|D:\\VisualProjects\\Card Royale\\card royale\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AECBAD-50C7-4211-9E53-BE67C4301B9D}|Card Royale\\Card Royale.csproj|solutionrelative:card royale\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AECBAD-50C7-4211-9E53-BE67C4301B9D}|Card Royale\\Card Royale.csproj|D:\\VisualProjects\\Card Royale\\card royale\\movingcardsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AECBAD-50C7-4211-9E53-BE67C4301B9D}|Card Royale\\Card Royale.csproj|solutionrelative:card royale\\movingcardsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AECBAD-50C7-4211-9E53-BE67C4301B9D}|Card Royale\\Card Royale.csproj|D:\\VisualProjects\\Card Royale\\card royale\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AECBAD-50C7-4211-9E53-BE67C4301B9D}|Card Royale\\Card Royale.csproj|solutionrelative:card royale\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\VisualProjects\\Card Royale\\Card Royale\\Card.cs",
+              "RelativeDocumentMoniker": "Card Royale\\Card.cs",
+              "ToolTip": "D:\\VisualProjects\\Card Royale\\Card Royale\\Card.cs",
+              "RelativeToolTip": "Card Royale\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:57:14.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovingCardsManager.cs",
+              "DocumentMoniker": "D:\\VisualProjects\\Card Royale\\Card Royale\\MovingCardsManager.cs",
+              "RelativeDocumentMoniker": "Card Royale\\MovingCardsManager.cs",
+              "ToolTip": "D:\\VisualProjects\\Card Royale\\Card Royale\\MovingCardsManager.cs",
+              "RelativeToolTip": "Card Royale\\MovingCardsManager.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:55:41.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingsManager.cs",
+              "DocumentMoniker": "D:\\VisualProjects\\Card Royale\\Card Royale\\SettingsManager.cs",
+              "RelativeDocumentMoniker": "Card Royale\\SettingsManager.cs",
+              "ToolTip": "D:\\VisualProjects\\Card Royale\\Card Royale\\SettingsManager.cs",
+              "RelativeToolTip": "Card Royale\\SettingsManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:03:53.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SolitairePanel.cs",
+              "DocumentMoniker": "D:\\VisualProjects\\Card Royale\\Card Royale\\SolitairePanel.cs",
+              "RelativeDocumentMoniker": "Card Royale\\SolitairePanel.cs",
+              "ToolTip": "D:\\VisualProjects\\Card Royale\\Card Royale\\SolitairePanel.cs",
+              "RelativeToolTip": "Card Royale\\SolitairePanel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:39:00.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\VisualProjects\\Card Royale\\Card Royale\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Card Royale\\MainMenu.cs",
+              "ToolTip": "D:\\VisualProjects\\Card Royale\\Card Royale\\MainMenu.cs",
+              "RelativeToolTip": "Card Royale\\MainMenu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwKEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T17:25:24.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "D:\\VisualProjects\\Card Royale\\Card Royale\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Card Royale\\MainMenu.cs",
+              "ToolTip": "D:\\VisualProjects\\Card Royale\\Card Royale\\MainMenu.cs [Design]",
+              "RelativeToolTip": "Card Royale\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:04:22.119Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

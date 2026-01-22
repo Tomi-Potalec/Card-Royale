@@ -1,0 +1,30 @@
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Resources\Music\Bitter Sweet Symphony.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Resources\Music\Cantina Band.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Resources\Music\Creep.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Resources\Music\Everlong.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Resources\Music\Jazz Time.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Resources\Music\New Computers.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Resources\Music\On The Mission.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Resources\Music\Somebody That I Used To Know.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Resources\Music\Whistle.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Resources\Sounds\card_flip.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Resources\Sounds\reset.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Resources\Sounds\victory.mp3
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Card Royale.exe.config
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Card Royale.exe
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Card Royale.pdb
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Newtonsoft.Json.dll
+D:\VisualProjects\Card Royale\Card Royale\bin\Release\Newtonsoft.Json.xml
+D:\VisualProjects\Card Royale\Card Royale\obj\Release\Card Royale.csproj.AssemblyReference.cache
+D:\VisualProjects\Card Royale\Card Royale\obj\Release\Interop.MediaPlayer.dll
+D:\VisualProjects\Card Royale\Card Royale\obj\Release\Interop.WMPLib.dll
+D:\VisualProjects\Card Royale\Card Royale\obj\Release\Card Royale.csproj.ResolveComReference.cache
+D:\VisualProjects\Card Royale\Card Royale\obj\Release\Card_Royale.MainMenu.resources
+D:\VisualProjects\Card Royale\Card Royale\obj\Release\Card_Royale.Properties.Resources.resources
+D:\VisualProjects\Card Royale\Card Royale\obj\Release\Card_Royale.SolitairePanel.resources
+D:\VisualProjects\Card Royale\Card Royale\obj\Release\Card Royale.csproj.GenerateResource.cache
+D:\VisualProjects\Card Royale\Card Royale\obj\Release\Card Royale.csproj.CoreCompileInputs.cache
+D:\VisualProjects\Card Royale\Card Royale\obj\Release\Card Roy.B9A194E9.Up2Date
+D:\VisualProjects\Card Royale\Card Royale\obj\Release\Card Royale.exe
+D:\VisualProjects\Card Royale\Card Royale\obj\Release\Card Royale.pdb
+D:\VisualProjects\Card Royale\Card Royale\obj\Release\Card Royale.exe.config
