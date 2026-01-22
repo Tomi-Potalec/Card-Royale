@@ -23,12 +23,12 @@ game logic implementation, and application resource management.
 
 ## Screenshots
 
-![Main Menu](Card Royale/Resources/screenshots/mainmenu-screenshot.png)
-![Settings](Card Royale/Resources/screenshots/settings-screenshot.png)
-![Difficulty](Card Royale/Resources/screenshots/difficulty-screenshot.png)
-![Gameplay1](Card Royale/Resources/screenshots/gameplay1-screenshot.png)
-![Gameplay2](Card Royale/Resources/screenshots/gameplay2-screenshot.png)
-![Gameplay3](Card Royale/Resources/screenshots/gameplay3-screenshot.png)
+![Main Menu](Resources/screenshots/mainmenu-screenshot.png)
+![Settings](Resources/screenshots/settings-screenshot.png)
+![Difficulty](Resources/screenshots/difficulty-screenshot.png)
+![Gameplay1](Resources/screenshots/gameplay1-screenshot.png)
+![Gameplay2](Resources/screenshots/gameplay2-screenshot.png)
+![Gameplay3](Resources/screenshots/gameplay3-screenshot.png)
 
 ### 🚧 Planned Features
 - Klondike
