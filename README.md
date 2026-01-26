@@ -22,26 +22,13 @@ game logic implementation, and application resource management.
 - Installer (.exe) and portable (.zip) versions
 
 ### 📸 Screenshots
-<<<<<<< HEAD
 
-<p align="center">
-  <img src="Resources/screenshots/mainmenu-screenshot.png" width="400" alt="Main Menu"/>
-  <img src="Resources/screenshots/settings-screenshot.png" width="400" alt="Settings"/>
-  <img src="Resources/screenshots/difficulty-screenshot.png" width="400" alt="Difficulty"/>
-  <img src="Resources/screenshots/gameplay1-screenshot.png" width="400" alt="Gameplay 1"/>
-  <img src="Resources/screenshots/gameplay2-screenshot.png" width="400" alt="Gameplay 2"/>
-  <img src="Resources/screenshots/gameplay3-screenshot.png" width="400" alt="Gameplay 3"/>
-</p>
-=======
-
-<p align="center">
-  <img src="Resources/screenshots/mainmenu-screenshot.png" width="400" alt="Main Menu"/>
-  <img src="Resources/screenshots/settings-screenshot.png" width="400" alt="Settings"/>
-  <img src="Resources/screenshots/difficulty-screenshot.png" width="400" alt="Difficulty"/>
-  <img src="Resources/screenshots/gameplay1-screenshot.png" width="400" alt="Gameplay 1"/>
-  <img src="Resources/screenshots/gameplay2-screenshot.png" width="400" alt="Gameplay 2"/>
-  <img src="Resources/screenshots/gameplay3-screenshot.png" width="400" alt="Gameplay 3"/>
-</p>
+![Main Menu](Card%20Royale/Resources/screenshots/mainmenu-screenshot.png)
+![Settings](Card%20Royale/Resources/screenshots/settings-screenshot.png)
+![Difficulty](Card%20Royale/Resources/screenshots/difficulty-screenshot.png)
+![Gameplay 1](Card%20Royale/Resources/screenshots/gameplay1-screenshot.png)
+![Gameplay 2](Card%20Royale/Resources/screenshots/gameplay2-screenshot.png)
+![Gameplay 3](Card%20Royale/Resources/screenshots/gameplay3-screenshot.png)
 
 >>>>>>> 2d123cef92b1f42d4ee82694d3cac4b7859cfed2
 
