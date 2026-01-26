@@ -30,7 +30,7 @@ game logic implementation, and application resource management.
 ![Gameplay 2](Card%20Royale/Resources/screenshots/gameplay2-screenshot.png)
 ![Gameplay 3](Card%20Royale/Resources/screenshots/gameplay3-screenshot.png)
 
->>>>>>> 2d123cef92b1f42d4ee82694d3cac4b7859cfed2
+
 
 ### 🚧 Planned Features
 - Klondike
@@ -91,15 +91,15 @@ logiku igre i upravljanje aplikacijskim resursima.
 - Spremanje postavki u JSON
 - Installer (.exe) i portable (.zip) verzija
 
+### 📸 Slike zaslona
 
-## Slike zaslona
+![Main Menu](Card%20Royale/Resources/screenshots/mainmenu-screenshot.png)
+![Settings](Card%20Royale/Resources/screenshots/settings-screenshot.png)
+![Difficulty](Card%20Royale/Resources/screenshots/difficulty-screenshot.png)
+![Gameplay 1](Card%20Royale/Resources/screenshots/gameplay1-screenshot.png)
+![Gameplay 2](Card%20Royale/Resources/screenshots/gameplay2-screenshot.png)
+![Gameplay 3](Card%20Royale/Resources/screenshots/gameplay3-screenshot.png)
 
-![Main Menu](Resources/screenshots/mainmenu-screenshot.png)
-![Main Menu](Resources/screenshots/settings-screenshot.png)
-![Main Menu](Resources/screenshots/difficulty-screenshot.png)
-![Gameplay1](Resources/screenshots/gameplay1-screenshot.png)
-![Gameplay2](Resources/screenshots/gameplay1-screenshot.png)
-![Gameplay3](Resources/screenshots/gameplay1-screenshot.png)
 
 
 
